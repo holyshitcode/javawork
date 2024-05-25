@@ -10,6 +10,7 @@ public class Warrior extends Character {
         this.weapons = "sword";
         this.getWeapons();
         //this.bagExtend();
+        //jjj
 	}
 	
 	public void getWeapons() {
